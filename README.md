@@ -2,8 +2,6 @@
 A simple 2D game built in Java using custom game loops, collision detection, and basic physics. 
 Designed as a learning project for [Industrial Creative Activity Term (ICAT)](https://nutech.edu.pk/news/industrial-creative-activity-term-icat-2024/) 2024.
 
-_💡 Lead Developer: This project was led and developed by me as part of a team effort, focusing on building clean, object-oriented, and modular game architecture._
-
 #### 🚀 Games
 1. Cross to Kacha
 2. Flappy Bird
@@ -18,13 +16,13 @@ Our most praised game was Cross to Kacha — a fun and chaotic two-player compet
 _Cross the road, grab a samosa, and get back to the university safely. First to collect 5 samosas wins!_
 
 ##### 🧱 Mechanics
-🛣️ Obstacles: Dodge fast-moving cars on the road.
-💎 Power-ups: Collect diamonds to double your score when returning with a samosa.
-👫 Multiplayer: Face off with another player in a race for snacks and glory.
+1. 🛣️ Obstacles: Dodge fast-moving cars on the road.
+2. 💎 Power-ups: Collect diamonds to double your score when returning with a samosa.
+3. 👫 Multiplayer: Face off with another player in a race for snacks and glory.
 
 ##### 🚀 Controls
-Player 1: W A S D
-Player 2: UP DOWN LEFT RIGHT (arrow keys)
+- Player 1: W A S D
+- Player 2: UP DOWN LEFT RIGHT (arrow keys)
 
 
 #### 🧰 Technologies Used
@@ -34,13 +32,23 @@ Player 2: UP DOWN LEFT RIGHT (arrow keys)
 
 
 #### Screenshots
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/486ade10-3660-4904-8f5f-d56d3c384e31" />
+
+<img width="1202" alt="image" src="https://github.com/user-attachments/assets/bf191f43-5112-47e8-a387-e309ac196c5c" />
+
+![kacha](https://github.com/user-attachments/assets/566acd25-564e-4db5-947d-8017cd3995ba)
+
 
 
 #### 🔧 How to Run
 1. Clone the repository:
-   `git clone https://github.com/mikailkhan/NuGames.git
-    cd NuGames`
-2. Run
+
+
+   `git clone https://github.com/mikailkhan/NuGames.git`
+
+
+   `cd NuGames`
+3. Run
 Navigate to src folder and open Main.java in your Java IDE
 Run the Code
 
